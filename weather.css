@@ -1,0 +1,46 @@
+h2{
+    background-color:black;
+    color: yellowgreen;
+}
+
+.input{
+    text-align: center;
+}
+#clock{
+    text-align: center;
+    color: red;
+}
+.inputValue{
+    border-style:groove;
+    height: 30px;
+    border-radius: 5px;
+    width:310px;
+}
+.button{
+    font-size: 25px;
+}
+.button:hover{
+    font-size: 30px;
+    color: red;
+    border-radius: 15px;
+}
+.inputValue{
+    font-size: 25px;
+    color: red;
+}
+.display{
+    text-align: center;
+    color: blue;
+    font-size: 25px;
+}
+#id1{
+    color: saddlebrown;
+}
+#id2{
+    color:maroon;
+
+}
+#id3{
+    color: orangered;
+    
+}
